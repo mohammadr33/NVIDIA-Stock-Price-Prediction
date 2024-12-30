@@ -2,6 +2,7 @@
 This beginner-friendly machine learning project uses Long Short-Term Memory (LSTM) networks to predict Nvidia stock prices. The model is trained on historical stock data from 2012 to 2023 and generates predictions for the stock prices between 2021 and 2022, showing a close correlation with actual values. I used the tutorial 'Stock Price Prediction Using Machine Learning' by Simplilearn as a reference for this project. It helped guide the methodology for building the LSTM model, preprocessing the data, and evaluating the predictions. You can find the article here: https://www.simplilearn.com/tutorials/machine-learning-tutorial/stock-price-prediction-using-machine-learning
 
 Steps to run stock prediction:
+
 Download the Python Script:
 
 Download the stock_prediction_script.py script from the repository.
